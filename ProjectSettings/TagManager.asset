@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spawner
+  - Enemy
+  - Coin
+  - Bullet
+  - Bullet_Enemy
+  - Bullet_Fire
+  - Bullet_Blue
+  - Colisor
+  - FireFlies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Enemy
+  - 
+  - Spawnner
+  - 
+  - Minimap
+  - 
+  - 
+  - post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2958861227
+    locked: 0
