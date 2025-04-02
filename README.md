@@ -69,19 +69,11 @@ Abra issues para relatar problemas ou sugerir melhorias.
 
 Envie pull requests com correções ou novas funcionalidades.
 
-
-Licença
-
-Este projeto está licenciado sob a [inserir licença aqui]. Consulte o arquivo LICENSE para mais detalhes.
-
 Contato
 
 Para dúvidas, sugestões ou contribuições, entre em contato:
 
 GitHub: newtsarthur
-
-Email: [seu-email@exemplo.com] (insira seu email de contato)
-
 
 Links Úteis
 
