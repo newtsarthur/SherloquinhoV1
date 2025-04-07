@@ -81,8 +81,9 @@ Repositório no GitHub
 
 Demo/Projeto ([TinyURL](https://tinyurl.com/2dprfwlq))
 
+---
 
-**Ficha de Personagem – Sherloquinho**
+### **Ficha de Personagem – Sherloquinho**
 
 1. **Nome**: Sherloquinho  
 2. **Idade**: 14 anos  
