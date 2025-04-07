@@ -1,10 +1,15 @@
-Sherloquinho V1
+![Capa do Jogo](img/01.png)
+
+###  **Sherloquinho V1**
 
 Sherloquinho V1 é um jogo 2D top-down desenvolvido na Unity. Embarque em uma aventura na Floresta CatCat, onde você deve enfrentar hordas de inimigos que invadiram o território e restaurar a paz.
+
+![Capa do Jogo](img/02.png)
 
 Descrição
 
 No Sherloquinho V1, o jogador assume o papel de um herói determinado a proteger a Floresta CatCat. Com mecânicas de movimento fluidas e controles simples, o jogo combina ação intensa e desafios estratégicos para proporcionar uma experiência única e divertida.
+
 
 Características
 
@@ -14,13 +19,19 @@ Controles Simples e Intuitivos:
 
 Movimentação: Use as teclas W, A, S, D ou as setas do teclado.
 
+![Capa do Jogo](img/03.png)
+
 Ataque: Pressione a tecla K para atacar os inimigos.
 
+![Capa do Jogo](img/04.png)
 
 Ação Intensa: Enfrente hordas de inimigos em diversos cenários da Floresta CatCat.
 
+![Capa do Jogo](img/05.png)
+
 Ambiente Imersivo: Explore uma floresta cheia de segredos, desafios e inimigos determinados a dominar o território.
 
+![Capa do Jogo](img/05.png)
 
 Como Jogar
 
