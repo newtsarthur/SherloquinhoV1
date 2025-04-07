@@ -88,9 +88,16 @@ Demo/Projeto ([TinyURL](https://tinyurl.com/2dprfwlq))
 1. **Nome**: Sherloquinho  
 2. **Idade**: 14 anos  
 3. **Localização/Contexto**: Floresta de Cat Cat  
-4. **Ocupação/Objetivo**: Proteger a floresta dos seres que a invadiram e descobrir a causa desses ataques  
+4. **Ocupação/Objetivo**: Proteger a floresta dos seres que a invadiram e descobrir a causa desses ataques
+
 
 ---
+![Sherloquinho](img/sher.png)
+---
+---
+![Fixa Sherloquinho](img/fixa.png)
+---
+
 
 ### **História / Background**  
 - **Origem**: Sherloquinho nasceu e cresceu na pequena vila na orla da Floresta de Cat Cat. Desde cedo, demonstrou curiosidade incomum, sempre explorando cada canto, conversando com viajantes e colecionando histórias sobre criaturas místicas.  
