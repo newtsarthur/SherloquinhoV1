@@ -92,7 +92,7 @@ Demo/Projeto ([TinyURL](https://tinyurl.com/2dprfwlq))
 
 
 ---
-![Sherloquinho](img/sher.png) 
+![Sherloquinho](img/sherloquinho.png) 
 ---
 ---
 ![Fixa Sherloquinho](img/fixa.png)
